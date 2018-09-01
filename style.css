@@ -1,0 +1,35 @@
+*{
+	font-family: 'Electrolize', sans-serif;
+}
+body{
+	background-color: #0000b3;
+	text-align: center;
+	color: #FFFFFF;
+}
+#inputTextArea{
+	border-radius: 10px;
+	border : 2px solid black;
+	width: 70%;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-size: 15px;
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+}
+#submitButton{
+	color: #FFFFFF;
+	background-color: #ff8533;
+	border-radius: 10px;
+	padding-top:30px;
+	padding-bottom: 30px;
+	padding-left: 60px;
+	padding-right: 60px;
+	border : none;
+	font-size: 20px;
+	margin-top: 15px;
+}
+h1{
+
+}
